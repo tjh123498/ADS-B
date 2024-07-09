@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.96b720ce.css",
+    "main.js": "./static/js/main.adf51443.js",
+    "static/media/plane-solid.svg": "./static/media/plane-solid.7d50780f82b9808a66b74caa9b85bbd8.svg",
+    "static/media/plane-departure-solid.svg": "./static/media/plane-departure-solid.3d198f556afbafb69252895a8df3ac2b.svg",
+    "static/media/database-solid.svg": "./static/media/database-solid.e5132342ee0c31182afcf1280fb4ca26.svg",
+    "index.html": "./index.html",
+    "static/media/gauge-solid.svg": "./static/media/gauge-solid.8d18db48607f5e29a30ef15a8cd3facb.svg",
+    "static/media/square-caret-up-solid.svg": "./static/media/square-caret-up-solid.0573794ec033f5ce25c1076e3ac596e3.svg",
+    "static/media/compass-solid.svg": "./static/media/compass-solid.f73e1aab6d53cdf66d5a805bed887db1.svg",
+    "static/media/cloud-solid.svg": "./static/media/cloud-solid.85fc3150538fcf27f243440d28b13bf3.svg",
+    "static/media/map-solid.svg": "./static/media/map-solid.766b0036eab61a996c2edad114707c25.svg",
+    "static/media/clock-solid.svg": "./static/media/clock-solid.5afe3e9c7891d72494d6babb32045feb.svg"
+  },
+  "entrypoints": [
+    "static/css/main.96b720ce.css",
+    "static/js/main.adf51443.js"
+  ]
+}

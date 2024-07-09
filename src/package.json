@@ -1,0 +1,49 @@
+{
+    "name": "adsb-frontend",
+    "homepage": ".",
+    "private": true,
+    "dependencies": {
+        "@emotion/react": "^11.11.4",
+        "@emotion/styled": "^11.11.0",
+        "@mui/material": "^5.15.14",
+        "@mui/x-date-pickers": "^6.16.0",
+        "axios": "^1.6.8",
+        "date-fns": "^2.30.0",
+        "file-saver": "^2.0.5",
+        "leaflet": "^1.9.4",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-hot-toast": "^2.4.1",
+        "react-leaflet": "^4.2.1",
+        "react-scripts": "5.0.1"
+    },
+    "scripts": {
+        "start": "cross-env BROWSER=none GENERATE_SOURCEMAP=false react-scripts start",
+        "build": "cross-env GENERATE_SOURCEMAP=false react-scripts build"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+        "@craco/craco": "^7.1.0",
+        "@types/file-saver": "^2.0.7",
+        "@types/leaflet": "^1.9.6",
+        "@types/node": "^16.18.38",
+        "@types/react": "^18.2.14",
+        "@types/react-dom": "^18.2.6",
+        "@types/react-syntax-highlighter": "^15.5.11",
+        "cross-env": "^7.0.3",
+        "tailwindcss": "^3.3.3",
+        "typescript": "^4.9.5"
+    }
+}
